@@ -1,4 +1,4 @@
-package com.afaqy;
+package com.afaqy.example2;
 
 public abstract class AbstractCalculator {
 
